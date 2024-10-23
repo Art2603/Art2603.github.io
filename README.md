@@ -19,5 +19,14 @@ tirado no dado  (é nescesário tirar 17 ou mais no dado e toca a música Don't 
 
   **4 link o park**
 
+  o Slach toca HEAVY IS THE CROWN e escolhe um aliado para rolar seu dado de ataque duas vezes (é nescesário tirar 12 ou mais no dado e toca a música HEAVY IS THE CROWN  pelo resto do turno)
+
+**História**
+
+O antigo astro do rock é o criador do gênero, porém a sua música não estava fazendo sucesso emtão ele fez um pacto com um demônio, sucesso em troca de sua alma , mas ele se sentia vazio por dentro pois não posuia mais a sua alma, então ele sai na aventura para encontrar o demônio e recuperar sua alma
+
+   |força | velocidade | vida|
+   |-----|:----------:|----:|
+   | 0| 30 | 50 |
  
   

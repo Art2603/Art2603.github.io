@@ -1,10 +1,13 @@
 # fred slach
-**Abilidades**
+  ![personagem](https://github.com/user-attachments/assets/3be72c97-75c7-43e8-8f81-a064af78445c)
+
+  
+  **Abilidades**
   
   **1 Breack Down**
+  
+   o guitarista usa sua abilidade na guitarra para tocar great days para resucitar um aliado ou cura todo dano e efeitos negativos de um aliado(é nescesário tirar 17 ou mais no dado e toca a música great days pelo resto do turno )
 
-                  *o guitarista usa sua abilidade na guitarra para tocar great days para resucitar um aliado ou cura todo dano e efeitos negativos de um aliado(é nescesário tirar 17 ou mais no dado e toca a música great days pelo resto do turno )*
+  **2 do not stop**
 
-  **do not stop**
-
-    
+    o músico toca Don't Stop Me Now e permite que todos os seus aliados acertem o ataque independente do número tirado no dado  

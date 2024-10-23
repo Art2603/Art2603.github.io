@@ -10,4 +10,6 @@
 
   **2 do not stop**
 
-    o músico toca Don't Stop Me Now e permite que todos os seus aliados acertem o ataque independente do número tirado no dado  
+    o músico toca Don't Stop Me Now e permite que todos os seus aliados acertem o ataque independente do número tirado no dado  (é nescesário tirar 17 ou mais no dado e toca a música Don't Stop Me Now pelo resto do turno)
+
+  

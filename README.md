@@ -2,7 +2,7 @@
   ![imagem do personagem meramente ilustrativa](https://github.com/user-attachments/assets/3be72c97-75c7-43e8-8f81-a064af78445c)
 
   
-  **Abilidades**
+  **Abilidades**  *1 Breack Down* 2 do not stop* 3 crusificação* 4 link o park
   
   **1 Breack Down**
   
@@ -30,3 +30,4 @@ O antigo astro do rock é o criador do gênero, porém a sua música não estava
    | 0| 30 | 50 |
  
   
+para criar o seu [https://www.youtube.com/watch?v=kLinBOKJ7oE]
